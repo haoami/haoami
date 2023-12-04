@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m KKfine@BUPT @天枢Dubhe
 - 👀 I’m interested in Information Security.
-- 🌱 I’m currently learning web.
+- 🌱 I’m currently learning Web&Blockchain&Pentest.
 - 📫 Email:kk@bupt.edu.cn
 
 <div >
